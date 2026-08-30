@@ -1,0 +1,6 @@
+{
+  "name": "CosyVinyl",
+  "description": "Cosy lo-fi record store & 3D turntable player with full Spotify Web Playback streaming, ultrawide album wall, and vinyl aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
